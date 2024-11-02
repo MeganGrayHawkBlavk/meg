@@ -1,0 +1,55 @@
+header {
+    color: rgb(221, 193, 193);
+    background-color: rgb(158, 9, 9);
+    display: flex;
+    height: 450px;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+body {
+    color: rgb(143, 17, 143);
+    background-color: black
+}
+
+.megsi {
+    border-radius: 15%;
+}
+
+footer {
+    color: pink;
+    background-color: darkred;
+}
+
+p {
+    color: greenyellow
+}
+
+.centered {
+    text-align: center;
+}
+
+.intro {
+    max-width: 600px;
+    text-align: center;
+}
+
+.hr {
+    border-bottom: dashed;
+    border-color: darkred;
+}
+
+h1 {
+    font-family: "Indie Flower", cursive;
+}
+
+h2 {
+    font-family: "Annie Use Your Telescope", cursive;
+}
+
+.nav-list {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
