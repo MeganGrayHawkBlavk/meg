@@ -9,8 +9,8 @@ header {
 }
 
 body {
-    color: pink;
-    background-color: darkgray;
+    color: #f224b1;
+    background-color: #211e21;
 }
 
 .megsi {
@@ -23,7 +23,7 @@ footer {
 }
 
 p {
-    color: greenyellow
+    color: #fca7e1;
 }
 
 .centered {
