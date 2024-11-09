@@ -5,7 +5,6 @@ header {
     height: 450px;
     justify-content: space-evenly;
     align-items: center;
-
 }
 
 body {
@@ -35,9 +34,10 @@ p {
     text-align: center;
 }
 
-.hr {
-    border-bottom: dashed;
-    border-color: darkred;
+hr {
+    border-top: 1px solid #FF0000;
+    border-bottom: 1px solid #FF0000;
+    margin: auto 150px;
 }
 
 h1 {
